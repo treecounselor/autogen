@@ -60,15 +60,15 @@ config, analysis = autogen.Completion.tune(
 response = autogen.Completion.create(context=test_instance, **config)
 ```
 
-* [Code examples](/docs/Examples/AutoGen-Inference).
-* [Documentation](/docs/Use-Cases/enhanced_inference).
+* [Code examples](/website/docs/Examples/AutoGen-Inference).
+* [Documentation](/website/docs/Use-Cases/enhanced_inference).
 
 ### Where to Go Next?
 
-* Understand the use cases for [multi-agent conversation](/docs/Use-Cases/agent_chat) and [enhanced LLM inference](/docs/Use-Cases/enhanced_inference).
-* Find [code examples](/docs/Examples/AutoGen-AgentChat).
-* Read [SDK](/docs/reference/agentchat/conversable_agent/).
-* Learn about [research](/docs/Research) around AutoGen.
+* Understand the use cases for [multi-agent conversation](/website/docs/Use-Cases/agent_chat) and [enhanced LLM inference](/docs/Use-Cases/enhanced_inference).
+* Find [code examples](/website/docs/Examples/AutoGen-AgentChat).
+* Read [SDK](/website/docs/reference/agentchat/conversable_agent/).
+* Learn about [research](/website/docs/Research) around AutoGen.
 * Chat on [Discord](https://discord.gg/pAbnFJrkgZ).
 * Follow on [Twitter](https://twitter.com/pyautogen).
 
