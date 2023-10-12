@@ -60,18 +60,18 @@ config, analysis = autogen.Completion.tune(
 response = autogen.Completion.create(context=test_instance, **config)
 ```
 
-* [Code examples](/docs/Examples/AutoGen-Inference).
-* [Documentation](/docs/Use-Cases/enhanced_inference).
+* [Code examples](/website/docs/Examples/AutoGen-Inference).
+* [Documentation](/website/docs/Use-Cases/enhanced_inference.md).
 
 ### Where to Go Next?
 
-* Understand the use cases for [multi-agent conversation](/docs/Use-Cases/agent_chat) and [enhanced LLM inference](/docs/Use-Cases/enhanced_inference).
-* Find [code examples](/docs/Examples/AutoGen-AgentChat).
-* Read [SDK](/docs/reference/agentchat/conversable_agent/).
-* Learn about [research](/docs/Research) around AutoGen.
+* Understand the use cases for [multi-agent conversation](/website/docs/Use-Cases/agent_chat.md) and [enhanced LLM inference](/website/docs/Use-Cases/enhanced_inference.md).
+* Find [code examples](/website/docs/Examples/AutoGen-AgentChat.md).
+* Read [SDK](/website/docs/reference/agentchat/conversable_agent/).
+* Learn about [research](/website/docs/Research.md) around AutoGen.
 * Chat on [Discord](https://discord.gg/pAbnFJrkgZ).
 * Follow on [Twitter](https://twitter.com/pyautogen).
 
-If you like our project, please give it a [star](https://github.com/microsoft/autogen/stargazers) on GitHub. If you are interested in contributing, please read [Contributor's Guide](/docs/Contribute).
+If you like our project, please give it a [star](https://github.com/microsoft/autogen/stargazers) on GitHub. If you are interested in contributing, please read [Contributor's Guide](/website/docs/Contribute).
 
 <iframe src="https://ghbtns.com/github-btn.html?user=microsoft&amp;repo=autogen&amp;type=star&amp;count=true&amp;size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
